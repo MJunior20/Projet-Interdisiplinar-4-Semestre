@@ -1,6 +1,9 @@
-# Projeto Interdisiplinar 4º Semestre - DentalPlan Sistema de Agendamento
+# Projeto Interdisiplinar 4º Semestre - DentalPlan 
+
 Maurílio Santos de Paula Júnior – CP3008347 e 
 Natalia Alves de Souza Onofre – CP3008061
+
+Sistema de Agendamento.
 
 Esse sistema está sendo desenvolvido com o objetivo de melhorar a organização e dar maior autonomia para os dentistas de um consultório odontológico.
 Para isso, está sendo criado um sistema responsável por fazer os agendamentos e consultas, cadastros de pacientes e dentistas, adicionar serviços e produtos. O sistema será construído
