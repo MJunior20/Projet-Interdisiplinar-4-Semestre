@@ -1,23 +1,21 @@
 # DentalPlan 
 
 <p align="center">
- <a href="descrição">Objetivo</a> •
- <a href="#roadmap">Roadmap</a> • 
+ <a href="descrição">Descrição</a> •
  <a href="#tecnologias">Tecnologias</a> • 
- <a href="#contribuicao">Contribuição</a> • 
  <a href="#licenc-a">Licença</a> • 
  <a href="#autor">Autor</a>
 </p>
 
 # ✅Sistema de Agendamento 
-## descrição:
+###Descrição:
 Esse sistema está sendo desenvolvido com o objetivo de melhorar a organização e dar maior autonomia para os dentistas de um consultório odontológico.
 Para isso, está sendo criado um sistema responsável por fazer os agendamentos e consultas, cadastros de pacientes e dentistas, adicionar serviços e produtos. O sistema será construído
 seguindo o padrão MVC, os padrões de projeto Builder, Decorator e Memento, além de ser modelado utilizando os diagramas UML e C4 Model.
 Esse projeto foi desenvolvido para Projeto Interdisciplinar de 4º Semestre de Análise e Desenvolvimento de Sistemas 
 
 
-## 🛠️ Construído com
+## 🛠️ Tecnologias Utilizadas
 
 Mencione as ferramentas que você usou para criar seu projeto
 
