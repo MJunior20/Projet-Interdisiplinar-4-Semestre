@@ -26,7 +26,7 @@ Mencione as ferramentas que você usou para criar seu projeto
 
 ## 📄 Licença
 
-Este projeto está sob a licença (sua licença) - veja o arquivo [LICENSE.md](https://github.com/usuario/projeto/licenca) para detalhes.
+Este projeto está sob a licença (sua licença) - veja o arquivo [LICENSE](https://github.com/usuario/projeto/licenca) para detalhes.
 
 
 ## ✒️ Autores
