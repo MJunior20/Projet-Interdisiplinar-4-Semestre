@@ -1,10 +1,37 @@
-# Projeto Interdisiplinar 4º Semestre - DentalPlan 
+# DentalPlan 
 
-Maurílio Santos de Paula Júnior – CP3008347 e 
-Natalia Alves de Souza Onofre – CP3008061
 
-Sistema de Agendamento.
-
+# ✅Sistema de Agendamento 
+## descrição:
 Esse sistema está sendo desenvolvido com o objetivo de melhorar a organização e dar maior autonomia para os dentistas de um consultório odontológico.
 Para isso, está sendo criado um sistema responsável por fazer os agendamentos e consultas, cadastros de pacientes e dentistas, adicionar serviços e produtos. O sistema será construído
 seguindo o padrão MVC, os padrões de projeto Builder, Decorator e Memento, além de ser modelado utilizando os diagramas UML e C4 Model.
+Esse projeto foi desenvolvido para Projeto Interdisciplinar de 4º Semestre de Análise e Desenvolvimento de Sistemas 
+
+
+## 🛠️ Construído com
+
+Mencione as ferramentas que você usou para criar seu projeto
+
+* [NetBeans](https://netbeans.apache.org/download/index.html) - Ambiente de desenvolvimento integrado (IDE)
+* [MySQL](https://www.mysql.com/) - Banco de Dados
+* [JavaFX]() -
+
+
+## 📄 Licença
+
+Este projeto está sob a licença (sua licença) - veja o arquivo [LICENSE.md](https://github.com/usuario/projeto/licenca) para detalhes.
+
+
+## ✒️ Autores
+
+Mencione todos aqueles que ajudaram a levantar o projeto desde o seu início
+
+* [Maurílio  Júnior](https://github.com/MJunior20)
+* [Natalia Alves](https://github.com/Naty17608)
+
+
+## 📄 Licença
+
+Este projeto está sob a licença (sua licença) - veja o arquivo [LICENSE.md](https://github.com/usuario/projeto/licenca) para detalhes.
+
