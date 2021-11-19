@@ -14,6 +14,18 @@ Para isso, está sendo criado um sistema responsável por fazer os agendamentos 
 seguindo o padrão MVC, os padrões de projeto Builder, Decorator e Memento, além de ser modelado utilizando os diagramas UML e C4 Model.
 Esse projeto foi desenvolvido para Projeto Interdisciplinar de 4º Semestre de Análise e Desenvolvimento de Sistemas 
 
+## 📈Diagramas
+* ### [Diagrama Caso de Uso]() 
+<div align="center">
+<img src="https://user-images.githubusercontent.com/90415957/142698553-9ae69758-f817-4de5-b00d-856a51183db7.png" />
+</div>
+<br><br>
+
+* ### [Diagrama Classes](https://user-images.githubusercontent.com/90415957/142700219-7fc679f5-3627-4eb3-85b2-46b16d6a7528.jpeg)
+<div align="center">
+<img alt="Diagrama Classes" src="https://user-images.githubusercontent.com/90415957/142699576-62c5cb1d-91ab-4f07-8282-44fbf7884619.png"" />
+</div>
+
 
 ## 🛠️ Tecnologias Utilizadas
 
