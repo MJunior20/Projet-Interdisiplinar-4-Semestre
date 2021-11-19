@@ -1,13 +1,14 @@
 # DentalPlan 
 
 <p align="center">
- <a href="descrição">Descrição</a> •
+ <a href="#Descrição">Descrição</a> •
  <a href="#tecnologias">Tecnologias</a> • 
+ <a href="#Diagramas">Diagramas</a> • 
  <a href="#licenc-a">Licença</a> • 
  <a href="#autor">Autor</a>
 </p>
 
-# Sistema de Agendamento 
+# Sistema de Agendamento
 ### 📋Descrição:
 Esse sistema está sendo desenvolvido com o objetivo de melhorar a organização e dar maior autonomia para os dentistas de um consultório odontológico.
 Para isso, está sendo criado um sistema responsável por fazer os agendamentos e consultas, cadastros de pacientes e dentistas, adicionar serviços e produtos. O sistema será construído
