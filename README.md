@@ -31,7 +31,3 @@ Mencione todos aqueles que ajudaram a levantar o projeto desde o seu início
 * [Natalia Alves](https://github.com/Naty17608)
 
 
-## 📄 Licença
-
-Este projeto está sob a licença (sua licença) - veja o arquivo [LICENSE.md](https://github.com/usuario/projeto/licenca) para detalhes.
-
