@@ -24,9 +24,16 @@ Esse projeto foi desenvolvido para Projeto Interdisciplinar de 4º Semestre de A
 
 * ### [Diagrama Classes](https://user-images.githubusercontent.com/90415957/142700219-7fc679f5-3627-4eb3-85b2-46b16d6a7528.jpeg)
 <div align="center">
-<img alt="Diagrama Classes" src="https://user-images.githubusercontent.com/90415957/142699576-62c5cb1d-91ab-4f07-8282-44fbf7884619.png"" />
+<img alt="Diagrama Classes" src="https://github.com/MJunior20/Projet-Interdisiplinar-4-Semestre/blob/main/ASW/Diagramas%20de%20Classes/DiagramaDeClassesEPadroes.png" width ="700"/>
 </div>
 
+## 📐C4 model
+* ### [Diagrama Contexto](https://github.com/MJunior20/Projet-Interdisiplinar-4-Semestre/blob/main/ASW/Diagramas%20C4%20Model/Diagrama%20de%20Contexto.pdf)
+
+
+<div align="center">
+<img alt="Diagrama Classes" src="https://user-images.githubusercontent.com/90415957/142740589-6fdb5641-c4c6-48bd-9a51-7c5b3b97d155.png" />                                       </div>
+                                                                                                                                                                                                                                   
 
 ## 🛠️ Tecnologias Utilizadas
 
@@ -37,7 +44,7 @@ Mencione as ferramentas que você usou para criar seu projeto
 * [JavaFX]() -
 
 
-## 📄 Licença
+## 📑 Licença
 
 Este projeto está sob a licença MIT  - veja o arquivo [LICENSE](https://github.com/MJunior20/Projet-Interdisiplinar-4-Semestre/blob/main/LICENSE) para detalhes.
 
