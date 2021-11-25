@@ -40,12 +40,14 @@ Esse projeto foi desenvolvido para Projeto Interdisciplinar de 4º Semestre de A
  ## 📐C4 model
 * ### [Diagrama Contexto](https://github.com/MJunior20/Projet-Interdisiplinar-4-Semestre/blob/main/ASW/Diagramas%20C4%20Model/Diagrama%20de%20Contexto.pdf)
 
-
-
-
 <div align="center">
 <img alt="Diagrama Classes" src="https://user-images.githubusercontent.com/90415957/142740589-6fdb5641-c4c6-48bd-9a51-7c5b3b97d155.png" />                                       </div>
-                                                                                                                                                                                                                                   
+                
+                
+ * ### [Diagrama Container](https://github.com/MJunior20/Projet-Interdisiplinar-4-Semestre/blob/main/ASW/Diagramas%20C4%20Model/Diagrama%20de%20Container.png)
+<div align="center">
+<img alt="Diagrama Classes" src="https://github.com/MJunior20/Projet-Interdisiplinar-4-Semestre/blob/main/ASW/Diagramas%20C4%20Model/Diagrama%20de%20Container.png" width ="700"/>
+</div>            
 
 
 <section id="tecnologias">
