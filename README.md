@@ -31,7 +31,7 @@ Esse projeto foi desenvolvido para Projeto Interdisciplinar de 4º Semestre de A
 
 * ### [Diagrama Classes](https://user-images.githubusercontent.com/90415957/142700219-7fc679f5-3627-4eb3-85b2-46b16d6a7528.jpeg)
 <div align="center">
-<img alt="Diagrama Classes" src="https://github.com/MJunior20/Projet-Interdisiplinar-4-Semestre/blob/main/ASW/Diagramas%20de%20Classes/DiagramaDeClassesEPadroes.png" width ="700"/>
+<img alt="Diagrama Classes" src="https://github.com/MJunior20/Projet-Interdisiplinar-4-Semestre/blob/main/ASW/Diagramas%20de%20Classes/DiagramaDeClassesEpadroes.png" width ="700"/>
 </div>
  </section>
 
