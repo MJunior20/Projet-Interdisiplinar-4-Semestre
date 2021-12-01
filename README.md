@@ -29,13 +29,33 @@ Esse projeto foi desenvolvido para Projeto Interdisciplinar de 4º Semestre de A
 </div>
 <br><br>
 
-* ### [Diagrama Classes](https://user-images.githubusercontent.com/90415957/142700219-7fc679f5-3627-4eb3-85b2-46b16d6a7528.jpeg)
+* ### [Diagrama Classes](https://github.com/MJunior20/Projet-Interdisiplinar-4-Semestre/blob/main/ASW/Diagramas%20de%20Classes/DiagramaDeClassesEpadroes.png)
 <div align="center">
 <img alt="Diagrama Classes" src="https://github.com/MJunior20/Projet-Interdisiplinar-4-Semestre/blob/main/ASW/Diagramas%20de%20Classes/DiagramaDeClassesEpadroes.png" width ="700"/>
 </div>
+<br><br>
  </section>
 
+* ### [Padrão de Projeto - Memento](https://github.com/MJunior20/Projet-Interdisiplinar-4-Semestre/blob/main/ASW/Diagramas%20de%20Classes/AgendamentoMemento.png)
+<div align="center">
+<img alt="Diagrama Memento" src="https://github.com/MJunior20/Projet-Interdisiplinar-4-Semestre/blob/main/ASW/Diagramas%20de%20Classes/AgendamentoMemento.png" width ="700"/>
+</div>
+<br><br>
+ </section>
 
+* ### [Padrão de Projeto - Builder](https://github.com/MJunior20/Projet-Interdisiplinar-4-Semestre/blob/main/ASW/Diagramas%20de%20Classes/ConsultaBuilder.png)
+<div align="center">
+<img alt="Diagrama Builder" src="https://github.com/MJunior20/Projet-Interdisiplinar-4-Semestre/blob/main/ASW/Diagramas%20de%20Classes/ConsultaBuilder.png" width ="700"/>
+</div>
+<br><br>
+ </section>
+ 
+ * ### [Padrão de Projeto - Composite](https://github.com/MJunior20/Projet-Interdisiplinar-4-Semestre/blob/main/ASW/Diagramas%20de%20Classes/ServicosComposite.png)
+<div align="center">
+<img alt="Diagrama Composite" src="https://github.com/MJunior20/Projet-Interdisiplinar-4-Semestre/blob/main/ASW/Diagramas%20de%20Classes/ServicosComposite.png" width ="700"/>
+</div>
+<br><br>
+ </section>
 
  ## 📐C4 model
 * ### [Diagrama Contexto](https://github.com/MJunior20/Projet-Interdisiplinar-4-Semestre/blob/main/ASW/Diagramas%20C4%20Model/Diagrama%20de%20Contexto.pdf)
