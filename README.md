@@ -66,8 +66,22 @@ Esse projeto foi desenvolvido para Projeto Interdisciplinar de 4º Semestre de A
                 
  * ### [Diagrama Container](https://github.com/MJunior20/Projet-Interdisiplinar-4-Semestre/blob/main/ASW/Diagramas%20C4%20Model/Diagrama%20de%20Container.png)
 <div align="center">
-<img alt="Diagrama Classes" src="https://github.com/MJunior20/Projet-Interdisiplinar-4-Semestre/blob/main/ASW/Diagramas%20C4%20Model/Diagrama%20de%20Container.png" width ="700"/>
+<img alt="Diagrama Classes" src="https://github.com/MJunior20/Projet-Interdisiplinar-4-Semestre/blob/main/ASW/Diagramas%20C4%20Model/Diagrama%20de%20Container.png" width =""/>
 </div>            
+
+ * ### Diagrama Componente
+  <br>
+    <br>
+    
+ * #### [Diagrama Componente Agendamente](https://github.com/MJunior20/Projet-Interdisiplinar-4-Semestre/blob/main/ASW/Diagramas%20C4%20Model/Diagrama%20de%20Componente%20Agendamento.png)
+<div align="center">
+<img alt="Diagrama Componente Agendamente" src="https://github.com/MJunior20/Projet-Interdisiplinar-4-Semestre/blob/main/ASW/Diagramas%20C4%20Model/Diagrama%20de%20Componente%20Agendamento.png" width =""/>
+</div>   
+
+ * #### [Diagrama Componente Consulta](https://github.com/MJunior20/Projet-Interdisiplinar-4-Semestre/blob/main/ASW/Diagramas%20C4%20Model/Diagrama%20%20de%20Componente%20Consulta.png)
+<div align="center">
+<img alt="Diagrama Componente Consulta" src="https://github.com/MJunior20/Projet-Interdisiplinar-4-Semestre/blob/main/ASW/Diagramas%20C4%20Model/Diagrama%20%20de%20Componente%20Consulta.png" width =""/>
+</div>     
 
 
 <section id="tecnologias">
@@ -78,7 +92,7 @@ Mencione as ferramentas que você usou para criar seu projeto
 
 * [NetBeans](https://netbeans.apache.org/download/index.html) - Ambiente de desenvolvimento integrado (IDE)
 * [MySQL](https://www.mysql.com/) - Banco de Dados
-* [JavaFX]() - Infterface
+* [JavaFX]() - Interface
  </section>
 
 <section id="licença">
